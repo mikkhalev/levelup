@@ -1,0 +1,26 @@
+body {
+	margin: 0px;
+	padding: 0px;
+}
+.wrapper{
+	margin: 64px 350px 64px 350px;
+	font-family: Open Sans;
+}
+@media(max-width: 1530px) {
+	.wrapper{
+		margin: 64px 200px 64px 200px;
+		font-family: Open Sans;
+	}
+}
+@media(max-width: 1220px) {
+	.wrapper{
+		margin: 64px 100px 64px 100px;
+		font-family: Open Sans;
+	}
+}
+@media(max-width: 990px) {
+	.wrapper{
+		margin: 64px 30px 64px 30px;
+		font-family: Open Sans;
+	}
+}
